@@ -1,0 +1,10 @@
+modules:
+  jira:projectPage:
+    - key: app-test-hello-world-project-page
+      function: main
+      title: app-test
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/7f128dfd-6d4a-4f17-bec5-d0503e0c21e9
